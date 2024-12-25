@@ -30,6 +30,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.ts",
     "scripts/seed.js"
-  ],
+, "next.config.mjs"  ],
   "exclude": ["node_modules"]
 }

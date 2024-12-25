@@ -1,0 +1,9 @@
+**/*.md
+**/*.svg
+**/*.html
+**/*.ejs
+**/*.sol
+package.json
+.uml
+.uml-production
+.uml-test
