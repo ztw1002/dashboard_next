@@ -5,3 +5,4 @@ export const lusitana = Lusitana({
   subsets: ['latin'],
 })
 
+export default lusitana
